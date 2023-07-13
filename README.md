@@ -1,7 +1,7 @@
 # Mushroom Growing
-This is multi-part project that aims at using machine learning to 
-optimise and control the growing parameters within a mushroom chamber. This 
-part of the project is for the fruiting of the mushrooms. I envisage this 
+This is multi-part project that aims to optimise and control the growth 
+parameters within a mushroom chamber. 
+This part of the project is for the fruiting of the mushrooms. I envisage this 
 part as having 4 parts:
 1) Data Collection
 2) Training a machine learning algorithm on the growth parameters
